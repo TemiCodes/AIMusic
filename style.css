@@ -1,0 +1,52 @@
+.heading {
+    font-size: 22px;
+    margin: 0px;
+    width: 100%
+}
+
+.word {
+    font-size: 15px;
+    color: aqua;
+}
+
+#disk1_spot {
+    float: left;
+}
+
+#disk2_spot {
+    float: right;
+}
+
+.disk1 {
+    width: 200.1px;
+    border-radius: 50%;
+}
+
+.disk2 {
+    width: 200.1px;
+    border-radius: 50%;
+}
+
+#speed {
+    font-size: x-large;
+    margin: 15px;
+}
+
+#vol {
+    font-size: x-large;
+    margin: 15px;
+}
+
+body {
+    background-size: cover;
+}
+
+canvas {
+    border: 9.9px dashed red;
+
+}
+
+.play {
+    width: 125px;
+    font-size: xx-large;
+}
